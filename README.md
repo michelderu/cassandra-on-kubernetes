@@ -1,6 +1,14 @@
 # Run Cassandra on Kubernetes using the cass-operator (with Minikube)
-This project aims to help usetting up and understanding some of the basics of running Cassandra on Kubernetes using a local Minikube installation.  
+This project aims to help usetting up and understanding some of the basics of running Cassandra on Kubernetes using a local Minikube installation.
+
 It is assumed that Docker is already installed, up and running and has enough resources available (personally run it with 8 CPUs and 12 Gi of memory).
+Also this guide assumes an osx environment with Homebrew installed.
+
+Relevant links:
+- cass-operator: https://docs.datastax.com/en/cass-operator/doc/cass-operator/cassOperatorAbout.html
+- Minikube: https://minikube.sigs.k8s.io/docs/start/
+- Docker: https://www.docker.com/
+- Brew: https://brew.sh/
 
 ## Preparations
 
