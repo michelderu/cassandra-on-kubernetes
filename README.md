@@ -10,6 +10,8 @@ Relevant links:
 - Docker: https://www.docker.com/
 - Brew: https://brew.sh/
 
+![Kubernetes Dashboard](images/kubernetes-dashboard.png)
+
 ## Preparations
 
 ### Install Minikube
